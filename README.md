@@ -29,10 +29,10 @@ Providing the search options will create a better experience for any user when s
 
 ## Summary
 
-###Drawback
+### Drawback
 
 One drawback of this web application, is the fact that its source of information is limited.
 
-###Recomendations
+### Recomendations
 
 Creating a web application that can scrape recent data would provide an up-to-date information in this subject. Another recommendation is the use of a dropdown list where the user can visualize the options available and narrow down the output for an improved experience.
